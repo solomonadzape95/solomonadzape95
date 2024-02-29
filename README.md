@@ -4,17 +4,14 @@
 
 ## I am Solomon, a Software Developer
 
-I love building things, and i currently use JavaScript to create websites.
+**I love building things, and i currently use JavaScript to create websites.**
 
 ### 🛠 Tech Stack
 
-- #### HTML/CSS
-
-- #### JavaScript
-
-- #### React
-
-- #### Shell
+- **HTML/CSS**
+- **JavaScript**
+- **React**
+- **Shell**
 
 ### 🧾 Github Stats
 
@@ -24,11 +21,11 @@ I love building things, and i currently use JavaScript to create websites.
 
 ## 🌱 I’m currently learning
 
-- ### React Js
+- **React Js**
 
-- ### Data Structures and Algorithms
+- **Data Structures and Algorithms**
 
-- ### Databases
+- **Databases**
 
 <!--
 **solomonadzape95/solomonadzape95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
