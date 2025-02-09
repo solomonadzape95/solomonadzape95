@@ -1,42 +1,51 @@
-# Hi there👋
+<h1 align="center">Hi, I'm Solomon 👋</h1>
 
-![avatar](avatar.jpg)
+<p align="center">Frontend Developer | Exploring AI Agents & Blockchain Technology</p>
 
-## I am Solomon, a Software Developer
 
-**I love building things, and i currently use JavaScript to create websites.**
+## Tools & Technologies
 
-### 🛠 Tech Stack
+<p align="center">
+  <img alt="HTML" title="HTML" height="48" width="48" src="https://cdn.simpleicons.org/html5">
+  <img alt="CSS" title="CSS" height="48" width="48" src="https://cdn.simpleicons.org/css3">
+  <img alt="SASS" title="SASS" height="48" width="48" src="https://cdn.simpleicons.org/sass">
+  <img alt="Tailwind CSS" title="Tailwind CSS" height="48" width="48" src="https://cdn.simpleicons.org/tailwindcss">
+  <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript">
+  <img alt="TypeScript" title="TypeScript" height="48" width="48" src="https://cdn.simpleicons.org/typescript">
+  <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react">
+  <img alt="Next.js" title="Next.js" height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs">
+  <img alt="Redux" title="Redux" height="48" width="48" src="https://cdn.simpleicons.org/redux">
+<!--   <img alt="Zustand" title="Zustand" height="48" width="48" src="https://cdn.simpleicons.org/zustand"> -->
+<!--   <img alt="Node.js" title="Node.js" height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs"> -->
+<!--   <img alt="Express.js" title="Express.js" height="48" width="48" src="https://cdn.simpleicons.org/express"> -->
+<!--   <img alt="GraphQL" title="GraphQL" height="48" width="48" src="https://cdn.simpleicons.org/graphql"> -->
+  <img alt="Git" title="Git" height="48" width="48" src="https://cdn.simpleicons.org/git">
+  <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+  <img alt="Vercel" title="Vercel" height="48" width="48" src="https://cdn.simpleicons.org/vercel">
+<!--   <img alt="Netlify" title="Netlify" height="48" width="48" src="https://cdn.simpleicons.org/netlify"> -->
+<!--   <img alt="Web3.js" title="Web3.js" height="48" width="48" src="https://cdn.simpleicons.org/web3dotjs"> -->
+<!--   <img alt="Ethers.js" title="Ethers.js" height="48" width="48" src="https://cdn.simpleicons.org/ethers"> -->
+</p>
 
-- **HTML/CSS**
-- **JavaScript**
-- **React**
-- **Shell**
 
-### 🧾 Github Stats
+## Connect with Me
 
-![profile-img](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solomonadzape95&theme=github_dark)
-![top-langs-by-repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonadzape95&theme=github_dark)![top-langs-by-commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solomonadzape95&theme=github_dark)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=solomonadzape95&theme=github_dark)![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solomonadzape95&theme=github_dark&utcOffset=8)
+<p align="center">
+<!--   <a href="#">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a> -->
+  <a href="#">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+<!--   <a href="#">
+    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a> -->
+  <a href="#">
+    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
+  <a href="#">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
+      <img alt="X" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/x"></picture></a>
+<!--   <a href="#">
+    <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a> -->
+</p>
 
-## 🌱 I’m currently learning
-
-- **React Js**
-
-- **Data Structures and Algorithms**
-
-- **Databases**
-
-<!--
-**solomonadzape95/solomonadzape95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
