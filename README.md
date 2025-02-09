@@ -39,12 +39,15 @@
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a> -->
 <!--   <a href="#">
     <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a> -->
-  <a href=" https://discordapp.com/users/solenoid_99" target="_blank" rel="noopener noreferrer">
-    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
-  <a href="x.com/_chiater99" target="_blank" rel="noopener noreferrer">
+<a href="https://discordapp.com/users/solenoid_99" target="_blank" rel="noopener noreferrer">
+    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord">
+</a>
+<a href="https://x.com/_chiater99" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
-      <img alt="X" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/x"></picture></a>
+      <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x">
+    </picture>
+</a>
 <!--   <a href="#">
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a> -->
 </p>
