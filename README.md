@@ -13,15 +13,15 @@
   <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript">
   <img alt="TypeScript" title="TypeScript" height="48" width="48" src="https://cdn.simpleicons.org/typescript">
   <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react">
-  <img alt="Next.js" title="Next.js" height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs">
+  <img alt="Next.js" title="Next.js" height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs/white">
   <img alt="Redux" title="Redux" height="48" width="48" src="https://cdn.simpleicons.org/redux">
 <!--   <img alt="Zustand" title="Zustand" height="48" width="48" src="https://cdn.simpleicons.org/zustand"> -->
 <!--   <img alt="Node.js" title="Node.js" height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs"> -->
 <!--   <img alt="Express.js" title="Express.js" height="48" width="48" src="https://cdn.simpleicons.org/express"> -->
 <!--   <img alt="GraphQL" title="GraphQL" height="48" width="48" src="https://cdn.simpleicons.org/graphql"> -->
   <img alt="Git" title="Git" height="48" width="48" src="https://cdn.simpleicons.org/git">
-  <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
-  <img alt="Vercel" title="Vercel" height="48" width="48" src="https://cdn.simpleicons.org/vercel">
+  <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github/white">
+  <img alt="Vercel" title="Vercel" height="48" width="48" src="https://cdn.simpleicons.org/vercel/white">
 <!--   <img alt="Netlify" title="Netlify" height="48" width="48" src="https://cdn.simpleicons.org/netlify"> -->
 <!--   <img alt="Web3.js" title="Web3.js" height="48" width="48" src="https://cdn.simpleicons.org/web3dotjs"> -->
 <!--   <img alt="Ethers.js" title="Ethers.js" height="48" width="48" src="https://cdn.simpleicons.org/ethers"> -->
