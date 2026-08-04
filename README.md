@@ -1,6 +1,6 @@
 <img src="pfp.jpeg" alt="avatar" width="60" height="60"
-     style="border-radius: 50%; object-fit: cover; vertical-align: middle;">
-<h1>Solomon Adzape</h1>
+     style="border-radius: 50%; overflow: hidden; object-fit: cover; vertical-align: middle;">
+<p style="font-size: 20px">Solomon Adzape</p>
 
 Software engineer building beautiful, functional experiences.
 
