@@ -1,54 +1,63 @@
-<h1 align="center">Hi, I'm Solomon 👋</h1>
+# Solomon Adzape
 
-<p align="center">Frontend Developer | Exploring AI Agents & Blockchain Technology</p>
+Frontend and product engineer building local-first AI, desktop, and high-trust financial products.
 
+I work primarily with React, Next.js, TypeScript and Node.js, with additional experience across Rust, Tauri, PostgreSQL and onchain systems. I enjoy taking products from interface and interaction design through APIs, infrastructure, testing and deployment.
 
-## Tools & Technologies
+## Selected work
 
-<p align="center">
-  <img alt="HTML" title="HTML" height="48" width="48" src="https://cdn.simpleicons.org/html5">
-  <img alt="CSS" title="CSS" height="48" width="48" src="https://cdn.simpleicons.org/css3">
-  <img alt="SASS" title="SASS" height="48" width="48" src="https://cdn.simpleicons.org/sass">
-  <img alt="Tailwind CSS" title="Tailwind CSS" height="48" width="48" src="https://cdn.simpleicons.org/tailwindcss">
-  <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript">
-  <img alt="TypeScript" title="TypeScript" height="48" width="48" src="https://cdn.simpleicons.org/typescript">
-  <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react">
-  <img alt="Next.js" title="Next.js" height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs/white">
-  <img alt="Redux" title="Redux" height="48" width="48" src="https://cdn.simpleicons.org/redux">
-<!--   <img alt="Zustand" title="Zustand" height="48" width="48" src="https://cdn.simpleicons.org/zustand"> -->
-<!--   <img alt="Node.js" title="Node.js" height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs"> -->
-<!--   <img alt="Express.js" title="Express.js" height="48" width="48" src="https://cdn.simpleicons.org/express"> -->
-<!--   <img alt="GraphQL" title="GraphQL" height="48" width="48" src="https://cdn.simpleicons.org/graphql"> -->
-  <img alt="Git" title="Git" height="48" width="48" src="https://cdn.simpleicons.org/git">
-  <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github/white">
-  <img alt="Vercel" title="Vercel" height="48" width="48" src="https://cdn.simpleicons.org/vercel/white">
-<!--   <img alt="Netlify" title="Netlify" height="48" width="48" src="https://cdn.simpleicons.org/netlify"> -->
-<!--   <img alt="Web3.js" title="Web3.js" height="48" width="48" src="https://cdn.simpleicons.org/web3dotjs"> -->
-<!--   <img alt="Ethers.js" title="Ethers.js" height="48" width="48" src="https://cdn.simpleicons.org/ethers"> -->
-</p>
+### [Kai](https://github.com/solomonadzape95/kai)
 
+A local-first desktop assistant for macOS, Windows and Linux, with on-device inference, reminders, voice notes, governed tool use and optional connected services.
 
-## Connect with Me
+- Tauri, Rust, React, TypeScript and `llama.cpp`
+- Cross-platform installers and automated releases
+- Local conversation storage and permission-gated tools
+- [Website and downloads](https://kai.thesolenoid.space)
 
-<p align="center">
-<!--   <a href="#">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a> -->
-<!--   <a href="#">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a> -->
-<!--   <a href="#">
-    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a> -->
-<a href="https://discordapp.com/users/solenoid_99" target="_blank" rel="noopener noreferrer">
-    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord">
-</a>
-<a href="https://x.com/_chiater99" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
-      <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x">
-    </picture>
-</a>
-<!--   <a href="#">
-    <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a> -->
-</p>
+### [Nebula](https://github.com/solomonadzape95/nebula)
 
+An unaudited Stellar testnet DeFi vault that deposits XLM into yield strategies and issues a liquid, value-accruing nXLM token.
+
+- Soroban contracts and 64 accounting/security tests
+- Event indexer and hosted PostgreSQL data
+- Responsive wallet, deposit and redemption flows
+- [Testnet interface](https://nebula-pi-ruddy.vercel.app)
+
+### [Crypt](https://github.com/solomonadzape95/crypt)
+
+A testnet prototype for collateralized API service-level agreements. Providers lock a USDC guarantee, while monitored downtime can trigger settlement to the subscriber.
+
+- Soroban escrow contract and testnet deployment
+- Multi-wallet authentication
+- Monitoring and transaction-feedback interfaces
+- [Live prototype](https://cryptescrow.vercel.app)
+
+### [Gauntlet](https://github.com/solomonadzape95/gauntlet-tether)
+
+A football survival pool with self-custodial USDt wallets, weighted settlement and optional on-device AI advice.
+
+- Next.js, TypeScript, Tether WDK and QVAC
+- Playable simulation mode
+- Verifiable Sepolia test transactions
+- [Live prototype](https://thegauntlet-psi.vercel.app)
+
+## How I work
+
+I use AI extensively for learning, planning and implementation, while retaining responsibility for requirements, architecture, code review and verification. I prefer small reviewed changes, explicit constraints, automated tests and clear documentation of product limitations.
+
+## Current interests
+
+- Local-first and privacy-conscious AI
+- Governed agent and tool workflows
+- Complex frontend interfaces
+- Financial and developer infrastructure
+- Desktop and cross-platform products
+
+## Elsewhere
+
+- [Portfolio](https://thesolenoid.space)
+- [LinkedIn](https://www.linkedin.com/in/solomonadzape/)
+- Email: add your preferred public address here
+
+I am currently completing a B.Sc. in Computer Science at the University of Nigeria, Nsukka.
