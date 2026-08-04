@@ -1,4 +1,4 @@
-# ![avatar](avatar.jpg) Solomon Adzape
+# ![avatar](pfp.jpeg) Solomon Adzape
 
 Software engineer building beautiful, functional experiences.
 
