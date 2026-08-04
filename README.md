@@ -1,4 +1,4 @@
-# [avatar.jpg] Solomon Adzape
+# (avatar.jpg)Solomon Adzape
 
 Frontend and product engineer building local-first AI, desktop, and high-trust financial products.
 
