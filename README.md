@@ -1,4 +1,4 @@
-# ![avatar](image.jpg) Solomon Adzape
+# <img src="image.jpg" alt="avatar" width="60" height="60" style="border-radius: 50%; object-fit: cover; vertical-align: middle;"> Solomon Adzape
 
 Software engineer building beautiful, functional experiences.
 
