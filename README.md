@@ -1,4 +1,6 @@
-# ![avatar](pfp.jpeg) Solomon Adzape
+<img src="pfp.jpeg" alt="avatar" width="60" height="60"
+     style="border-radius: 50%; object-fit: cover; vertical-align: middle;">
+<h1>Solomon Adzape</h1>
 
 Software engineer building beautiful, functional experiences.
 
