@@ -1,6 +1,6 @@
-# (avatar.jpg)Solomon Adzape
+# ![avatar](avatar.jpg) Solomon Adzape
 
-Frontend and product engineer building local-first AI, desktop, and high-trust financial products.
+Software engineer building beautiful, functional experiences.
 
 I work primarily with React, Next.js, TypeScript and Node.js, with additional experience across Rust, Tauri, PostgreSQL and onchain systems. I enjoy taking products from interface and interaction design through APIs, infrastructure, testing and deployment.
 
@@ -22,7 +22,7 @@ An unaudited Stellar testnet DeFi vault that deposits XLM into yield strategies 
 - Soroban contracts and 64 accounting/security tests
 - Event indexer and hosted PostgreSQL data
 - Responsive wallet, deposit and redemption flows
-- [Testnet interface](https://nebula-pi-ruddy.vercel.app)
+- [Testnet interface](https://nebula.thesolenoid.space)
 
 ### [Crypt](https://github.com/solomonadzape95/crypt)
 
@@ -31,7 +31,7 @@ A testnet prototype for collateralized API service-level agreements. Providers l
 - Soroban escrow contract and testnet deployment
 - Multi-wallet authentication
 - Monitoring and transaction-feedback interfaces
-- [Live prototype](https://cryptescrow.vercel.app)
+- [Live prototype](https://crypt.thesolenoid.space)
 
 ### [Gauntlet](https://github.com/solomonadzape95/gauntlet-tether)
 
@@ -40,7 +40,7 @@ A football survival pool with self-custodial USDt wallets, weighted settlement a
 - Next.js, TypeScript, Tether WDK and QVAC
 - Playable simulation mode
 - Verifiable Sepolia test transactions
-- [Live prototype](https://thegauntlet-psi.vercel.app)
+- [Live prototype](https://gauntlet.thesolenoid.space)
 
 ## How I work
 
